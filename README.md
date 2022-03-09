@@ -6,3 +6,6 @@ Project00 is a group project which consist of 3 members in a group, each tasked 
 
 # Project01
 Project01 is another group project which consist of 3 members in a group, in this project, we were tasked to create a code of seven segment display to repeat a series of number on display, the simulation was done using tinkercad and also done physically in class.
+
+# Project02
+Project02 is somewhat similar to project01, but in project02 instead of repeating a series of number on display, it shows the temperature of a temperature sensor on display.
