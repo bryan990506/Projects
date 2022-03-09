@@ -1,9 +1,3 @@
-//Student name; Student id;
-//Bryan; 593tc99e;
-//kaiting; 352IHTXH;
-//wunna; 0501jmg7;
-//nunkoo; 1490563;
-
 #include <stdio.h>
 float sine, cosine, tangent; // for output answers
 float siner, cosiner; // for radian input
